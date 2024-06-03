@@ -18,7 +18,7 @@ I'm a Computer Science student passionate about learning and exploring new techn
 
 ## 💻 Projects
 
-- [Project 1 clock](link-to-project-1): Brief description
+- [Project 1 clock](https://github.com/PranavT3626/clock): Brief description
 - [Project 2 spotify clone](link-to-project-2): Brief description
 
 ## 📫 How to Reach Me
