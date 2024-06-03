@@ -18,8 +18,8 @@ I'm a Computer Science student passionate about learning and exploring new techn
 
 ## 💻 Projects
 
-- [Project 1 clock](https://github.com/PranavT3626/clock): Brief description
-- [Project 2 spotify clone](link-to-project-2): Brief description
+- [Project 1 clock](https://github.com/PranavT3626/clock): This repository contains a simple clock implementation created using HTML, CSS, and JavaScript
+- [Project 2 spotify clone](link-to-project-2): # Spotify Clone this repository contains a clone of the Spotify web application, built using React.js, Node.js, and the Spotify Web API.
 
 ## 📫 How to Reach Me
 
