@@ -19,7 +19,7 @@ I'm a Computer Science student passionate about learning and exploring new techn
 ## 💻 Projects
 
 - [Project 1 clock](https://clock-o3qqvammf-pranav-tyagis-projects.vercel.app/): This repository contains a simple clock implementation created using HTML, CSS, and JavaScript
-- [Project 2 calculator](link-to-project-2): # created a stylish calculator using React.js
+- [Project 2 password generator](https://password-generator-nbixcr9q5-pranav-tyagis-projects.vercel.app/): # This project contains a HTML,CSS & JS-based password generator designed to create secure, random passwords for enhanced online security
 
 ## 📫 How to Reach Me
 
