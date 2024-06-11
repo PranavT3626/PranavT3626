@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Tyagi</h1>
 <h3 align="center">I'm a Computer Science student passionate about learning and exploring new technologies</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
+<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=kbUTNQ5P&id=8D5228C9D300CE4CB8A99EF10087D346593A6FD3&thid=OIP.kbUTNQ5Pw-esY0-8yjb8JQHaEK&mediaurl=https%3a%2f%2fmedia1.giphy.com%2fmedia%2fRbDKaczqWovIugyJmW%2fgiphy.gif&exph=270&expw=480&q=animated+coding+gif&simid=608047763631070356&FORM=IRPRST&ck=8B83AB957AB2D7B3E7F196F1064C9CE5&selectedIndex=13&itb=0&ajaxhist=0&ajaxserp=0"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavt3626&label=Profile%20views&color=0e75b6&style=flat" alt="pranavt3626" /> </p>
 
