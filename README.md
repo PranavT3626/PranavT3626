@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pranav Tyagi</h1>
 <h3 align="center">I'm a Computer Science student passionate about learning and exploring new technologies</h3>
 
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavt3626&label=Profile%20views&color=0e75b6&style=flat" alt="pranavt3626" /> </p>
 
 - 🔭 I’ve completed the project of [Password generator](https://pranavt3626.github.io/Password-generator/)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Python Programming, Frontend Development (HTML, CSS, JavaScript), Version Control with Git**
 
-- ⚒️I’ve completed the project of [Simple clock](https://pranavt3626.github.io/clock/)
+-⚒️I’ve completed the project of [Simple clock](https://pranavt3626.github.io/clock/)
 
 - 🤝 I’ve completed the project of [bike game](https://pranavt3626.github.io/bike-game-pranav/)
 
