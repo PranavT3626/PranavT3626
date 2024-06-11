@@ -1,4 +1,4 @@
-![logo] (https://github.com/PranavT3626/PranavT3626/blob/main/Co..png)
+![logo](https://github.com/PranavT3626/PranavT3626/blob/main/my%20banner.png)
 <h1 align="center">Hi 👋, I'm Pranav Tyagi</h1>
 <h3 align="center">I'm a Computer Science student passionate about learning and exploring new technologies</h3>
 
