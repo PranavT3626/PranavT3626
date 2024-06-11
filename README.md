@@ -8,11 +8,11 @@
 
 - 🔭 I’ve completed the project of [Password generator](https://pranavt3626.github.io/Password-generator/)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Python Programming, Frontend Development (HTML, CSS, JavaScript), Version Control with Git**
-
 - ⚒️I’ve completed the project of [Simple clock](https://pranavt3626.github.io/clock/)
 
 - 🤝 I’ve completed the project of [bike game](https://pranavt3626.github.io/bike-game-pranav/)
+
+- 🌱 I’m currently learning **Data Structures and Algorithms, Python Programming, Frontend Development (HTML, CSS, JavaScript), Version Control with Git**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranavT3626/MY-information](https://github.com/PranavT3626/MY-information)
 
