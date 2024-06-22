@@ -12,6 +12,10 @@
 
 - 🤝 I’ve completed the project of [bike game](https://pranavt3626.github.io/bike-game-pranav/)
 
+- 🧮 I’ve completed the project of [scientific calculator](https://pranavt3626.github.io/Calculator/)
+
+- 🗃️ Portfolio using CSS,SCSS,java [Portfolio](https://pranavt3626.github.io/Pranavtyagi.github.io/)
+
 - 🌱 I’m currently learning **Data Structures and Algorithms, Python Programming, Frontend Development (HTML, CSS, JavaScript), Version Control with Git**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranavT3626/MY-information](https://github.com/PranavT3626/MY-information)
