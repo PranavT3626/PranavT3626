@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **pranavtyagi3626@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19CPtjkejtxmsi9US2MNPTv9-b4kyNCZp/view?usp=drivesdk](https://drive.google.com/file/d/19CPtjkejtxmsi9US2MNPTv9-b4kyNCZp/view?usp=drivesdk)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1XcwXR0FnzytKephDbC0xVVtmV677Ip0i/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I'm funny**
 
