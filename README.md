@@ -16,6 +16,8 @@
 
 - 🗃️ Portfolio using CSS,SCSS,java [Portfolio](https://pranavt3626.github.io/Pranavtyagi.github.io/)
 
+- 🗃️ Games using CSS,java [tic-tac-toe](https://pranavt3626.github.io/tic-tac-toe/)
+
 - 🌱 I’m currently learning **Data Structures and Algorithms, Python Programming, Frontend Development (HTML, CSS, JavaScript), Version Control with Git**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranavT3626/MY-information](https://github.com/PranavT3626/MY-information)
