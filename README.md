@@ -21,6 +21,8 @@
 - 🎹 Piano using JavaScript and data URIs [Piano](https://pranavt3626.github.io/Piano/)
 
 - 🎵 Emotion-Based Music AI [Music](https://github.com/PranavT3626/Emotion-music-app/blob/main/README.md)
+
+- ⚒️ REST API [API](https://github.com/PranavT3626/backend-project/blob/main/README.md)
   
 - 🌱 I’m currently learning **Data Structures and Algorithms, Python Programming, Frontend Development (HTML, CSS, JavaScript), Version Control with Git**
 
